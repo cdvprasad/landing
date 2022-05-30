@@ -1,4 +1,4 @@
 all students are stupids
 -----------------------
 print("this is monday 30")
-
+pri t9"s"
